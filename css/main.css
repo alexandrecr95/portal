@@ -4,21 +4,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 html {
-    background-color: #264653;
+    background-color: #ccd5ae;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
 
 ::selection {
-    color: 2a9d8f; 
+    color: #e9edc9; 
     background: #ff0;
 }
 
 h1 {
     font-weight: normal;
     margin: auto;
-    background: #e9c46a;
+    background: #;
     line-height: 2.5em;
 }
 
@@ -27,7 +27,7 @@ h1.page-header {
 }
 
 main.wrapper {
-    background-color: f4a261;
+    background-color: #fefae0;
     overflow: auto;
 }
 
@@ -47,8 +47,8 @@ a {
 }
 
 a:hover {
-    color: #e76f51;
-    background-color: #e76f51;
+    color: #fefae0;
+    background-color: #e20a0a;
     text-decoration: none;
 }
 
